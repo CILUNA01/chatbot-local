@@ -1,1 +1,2 @@
 pantalla de bienvenida del chatbot
+agrego campo de input para el usuario
